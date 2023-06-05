@@ -20,6 +20,7 @@
         imports = [
           self.homeModules.common
           ./bash.nix
+		  ./zsh.nix
           ./vscode-server.nix
         ];
       };

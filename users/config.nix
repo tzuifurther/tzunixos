@@ -1,14 +1,14 @@
 {
-  myself = "srid";
+  myself = "ifurther";
   users = {
-    srid = {
-      name = "Sridhar Ratnakumar";
-      email = "srid@srid.ca";
+    ifurther = {
+      name = "Further Lin";
+      email = "128354761+tzuifurther@users.noreply.github.com";
       sshKeys = [
         # Legacy
-        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCYQ003p7fB5ICQehLwhDBomY9WzkNBeijkSw9ADGU+ECrPakeIH3pntUWRJH1W93vKnLqpkn6HLGEXD9MCR0s98uhh8hT7uAYCxQTbEeKT3PYkfz3oe7XaR8rE601sds0ZyFwH7l8cvK97pGr+uhFXAaohiV6VqmLVXhManEjZZ8GfYWBD9BCmIJk43G3OGa5QYFeHqztprXaJNU5dFPv2Uq2C+L6EvfCfkK2OO1BLZgL+Rai5jjyy6k0fcfsxxd9BdGUwqDhcBeyTIzX9rePMugf/xD+6uNRxTU+vjVpGUtFOw6rpgmVyFv9mn3QMNdQBc5hYKVbIQwMNGTzGgcQv srid@nixos"
+        "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDeH5lGm5E8AubHiURck39I2iX90kxLuC4yNLSuUC5ZpRnka03H7XIHteXy0v0fwHGtPABEYwIi0WjQLm23HIO403CMZEpi4MUcaRxRVrHy49L+z/aFZl/9ONNdtT3+XvkCe8EMJqMBeM1iItt07wbFSmXP01HHyj5VxPBB15SvEUiAheNb5U//rw4E27+RbUBw4mrVk1g2Crxe4SsXBnyZOJwmUYZQ4Zj50qc1L09hLbmzI58tA4uEVUKig+E/4beUwt9+dOQe62L0C49KKOErnMWTVbk98aoUPY3UwRRdDKGlbhUCqo5vSLA+Yg0Dzx3/RjV5zxfpup/z2e+CfTbu/accVYxw4fR8w8WY9D6uDcy4r5o4H6+76o6bDl20aXRHVlNwiqWEJn1Tg5tDu/kM7XZ3I1AfPjjzrTNQms1GUVQGVdDhkcz+gVse8/TNMZQAcbrFJmUGvllRjDfQn6mBCNHSkSdUo/sssjzwn7UCQ/yQy/6wQVdxyERcYP75HNc= hp@HL1M028228"
         # New
-        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHQRxPoqlThDrkR58pKnJgmeWPY9/wleReRbZ2MOZRyd"
+        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIM6Gr0XaIFunMIVcrEv7CfSbijSAgU3iEZkMpawOpYbv"
       ];
     };
   };
